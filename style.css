@@ -89,3 +89,26 @@ h1,h2 {
 font-family: 'Notable', sans-serif;
 font-size: x-large;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+.space {
+  padding: 20px;
+}
+
+#logoscont {
+ align: center;
+} 
+
+#mypic2 {
+  border-radius: 50%;
+  height: 160px;
+  width: 160px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  -webkit-filter: drop-shadow(8px 8px 10px green);filter: drop-shadow(8px 8px 10px green);}
+}
