@@ -1,6 +1,7 @@
 h1,h2 {
     font-weight: 200;
     margin: 0.4em 0;
+    font-family: montserrat;
   }
 
   h1 { font-size: 3.5em; }
@@ -25,9 +26,11 @@ h1,h2 {
 .hero-image {
   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/coding.jpg");
+  
+  
 
   /* Set a specific height */
-  height: 93%;
+  height: 100%;
 
   /* Position and center the image to scale nicely on all screens */
   background-position: center;
@@ -44,4 +47,45 @@ h1,h2 {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+.mypic {
+  border-radius: 150%;
+  height: 180px;
+  width: 150px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sect3 {
+  padding: 130px;;
+}
+
+
+#logo1 {
+  width: 70px;
+  height: 70px;
+  -webkit-filter: drop-shadow(8px 8px 10px green);filter: drop-shadow(8px 8px 10px green);}
+  
+}
+
+#contactme {
+  align-items: center;
+}
+
+#cardimg {
+  -webkit-filter: drop-shadow(8px 8px 10px green);filter: drop-shadow(8px 8px 10px green);}
+}
+
+.icons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*Carusel style*/
+.navbar-brand {
+font-family: 'Notable', sans-serif;
+font-size: x-large;
 }
