@@ -113,8 +113,13 @@ html {
   -webkit-filter: drop-shadow(8px 8px 10px green);filter: drop-shadow(8px 8px 10px green);}
 }
 
-.card {
- display: inline;
-  text-align: center;
+#img1 {
+  -webkit-filter: drop-shadow(8px 8px 10px green);filter: drop-shadow(8px 8px 10px green);}
 
+}
+
+.center {
+  margin: 0;
+  float: none;
+  text-align: center;
 }
