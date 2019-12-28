@@ -1,6 +1,6 @@
 # IntroPage
-Introduction One Page - Bootstrap
+Lucas Di Fini's new portfolio - Made with Bootstrap.
 
-This is my new portfolio. I include four of my projects.
+This is my new portfolio. I included four of my projects, including project #1 and #2.
 
-![Website img](/assets/portfolioimg.png)
+![Website img](IntroPage/assets/portfolioimg.png)
