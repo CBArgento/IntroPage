@@ -164,3 +164,9 @@ html {
   text-align: right;
   padding-right: 15px;
 }
+
+.Companies {
+  background-color: lightgray;
+  padding: 6%;
+  text-align: center;
+}
